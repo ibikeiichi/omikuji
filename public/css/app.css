@@ -1,0 +1,14 @@
+.omikujititle {
+                color: green;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 350px;
+}
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
